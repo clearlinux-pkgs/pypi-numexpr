@@ -7,7 +7,7 @@
 #
 Name     : pypi-numexpr
 Version  : 2.9.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/fe/d0/b8e7a2865109630775db4ce981f635bface8909eec4ecd8a2b8b16af1b4d/numexpr-2.9.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fe/d0/b8e7a2865109630775db4ce981f635bface8909eec4ecd8a2b8b16af1b4d/numexpr-2.9.0.tar.gz
 Summary  : Fast numerical expression evaluator for NumPy
@@ -66,7 +66,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1711409273
+export SOURCE_DATE_EPOCH=1711512984
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
