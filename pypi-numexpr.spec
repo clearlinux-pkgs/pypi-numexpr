@@ -7,7 +7,7 @@
 #
 Name     : pypi-numexpr
 Version  : 2.10.1
-Release  : 21
+Release  : 22
 URL      : https://files.pythonhosted.org/packages/f9/61/dd156698c6211a877170303b49be711f6952570c2a03bfdd2ae3217fb213/numexpr-2.10.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f9/61/dd156698c6211a877170303b49be711f6952570c2a03bfdd2ae3217fb213/numexpr-2.10.1.tar.gz
 Summary  : Fast numerical expression evaluator for NumPy
