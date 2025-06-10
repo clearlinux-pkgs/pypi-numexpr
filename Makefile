@@ -1,5 +1,5 @@
 PKG_NAME := pypi-numexpr
-URL = https://files.pythonhosted.org/packages/21/67/c7415cf04ebe418193cfd6595ae03e3a64d76dac7b9c010098b39cc7992e/numexpr-2.10.2.tar.gz
+URL = https://files.pythonhosted.org/packages/d2/8f/2cc977e91adbfbcdb6b49fdb9147e1d1c7566eb2c0c1e737e9a47020b5ca/numexpr-2.11.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
